@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.31)  13 MAY 2017 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.31)  15 MAY 2017 10:00
 entering extended mode
 **./ros_tutorial.tex
 (ros_tutorial.tex
@@ -21,42 +21,189 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count87
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count88
+\lst@currlwidth=\dimen103
+\lst@column=\count89
+\lst@pos=\count90
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count91
+\lst@lineno=\count92
+\lst@maxwidth=\dimen106
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count93
+\lst@skipnumbers=\count94
+\lst@framebox=\box27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\underscore\underscore.sty"
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
 
 LaTeX Warning: Unused global option(s):
     [‚Ä¢].
 
-No file ros_tutorial.aux.
+(ros_tutorial.aux)
 \openout1 = `ros_tutorial.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-[1
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+\c@lstlisting=\count95
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+ [1
 
 {C:/Users/A/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(ros_tutorial.aux) ) 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 72--83
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 85.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 85.
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no å in font cmr7!
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no ã in font cmr7!
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 85.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 85.
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no å in font cmr7!
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no ã in font cmr7!
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no å in font cmr7!
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no ã in font cmr7!
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no å in font cmr7!
+Missing character: There is no ‚ in font cmr7!
+Missing character: There is no Ä in font cmr7!
+Missing character: There is no ã in font cmr7!
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+[4]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 120.
+ [5] (ros_tutorial.aux) ) 
 Here is how much of TeX's memory you used:
- 201 strings out of 493634
- 2144 string characters out of 3141326
- 52604 words of memory out of 3000000
- 3674 multiletter control sequences out of 15000+200000
- 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1704 strings out of 493634
+ 23782 string characters out of 3141326
+ 101177 words of memory out of 3000000
+ 5130 multiletter control sequences out of 15000+200000
+ 8757 words of font info for 32 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 23i,4n,17p,142b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb>
-Output written on ros_tutorial.pdf (1 page, 14971 bytes).
+ 26i,6n,42p,663b,1122s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmib10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb>
+Output written on ros_tutorial.pdf (5 pages, 118994 bytes).
 PDF statistics:
- 10 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
